@@ -1,2 +1,2 @@
 # Cajero
- Simulacion de un cajero de banco.
+ Simulacion de un cajero automatico de banco.
